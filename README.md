@@ -1,2 +1,2 @@
-# Bryantkrause.gihub.io
+# Bryantkrause.github.io
 First Deployment
